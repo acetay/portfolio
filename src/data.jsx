@@ -46,7 +46,7 @@ export const projects = [
     id: nanoid(),
     img: vms,
     github: 'https://github.com/acetay/Volunteer_Management_System_VMS',
-    title: 'Volunteer_Management_System',
+    title: 'Volunteer Management System',
     text: 'A full-stack digital platform for new volunteer signups along with a CRM dashboard to enable staff to administer new programs and enrol new volunteers',
   },
   {
