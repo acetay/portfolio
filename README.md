@@ -1,1 +1,1 @@
-#### Portfolio with Tailwind
+#### Created a Portfolio with React and Tailwind
