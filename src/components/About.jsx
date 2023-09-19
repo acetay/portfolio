@@ -9,18 +9,14 @@ const About = () => {
         <article>
           <SectionTitle text='about me' />
           <p className='text-slate-600 mt-8 leading-loose'>
-            With a remarkable history of delivering critical operational success
-            and accomplishing time-sensitive missions, I bring an extensive
-            background in problem-solving and project management. As a trusted
-            confidant to the esteemed Center Director, I managed pivotal
-            workstreams with guidance, ensuring flawless execution of recurring
-            events and fostering fruitful collaborations with government
-            entities. Motivated by my recent completion of the SCTP in Software
-            Engineering under NTU PaCE, I am eager to forge a path in the tech
-            industry as a software engineer. I am genuinely thrilled to make
-            impactful contributions to groundbreaking software development
-            projects, harnessing my adaptability, keen attention to detail, and
-            unwavering commitment to excellence.
+            I am currently based in Singapore and have been working in the field
+            of charity and non-governmental organizations. While I have a
+            background in this sector, I am passionate about transitioning into
+            a career as a full stack developer. I am in the early stages of my
+            coding journey, focusing on languages like Java, JavaScript, React,
+            and Springboot. My goal is to gain expertise in these areas so that
+            I can contribute to the world of software development and create
+            meaningful technology solutions.
           </p>
         </article>
       </div>
